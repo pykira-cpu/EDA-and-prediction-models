@@ -1,4 +1,4 @@
-Objective:
+### Objective:
 
 Congratulations, 
 
@@ -12,7 +12,7 @@ It’s time to save humanity which is at the brink of extinction.
 
 You are our only hope for survival. 
 
-Problem Statement
+### Problem Statement
 1. Create a report on key insights derived from Exploratory Data Analysis
 
 2. Create a multi-class prediction model to predict the species of plant which will survive in the neighborhood of a given environment.
@@ -28,7 +28,7 @@ Directions -
 Hello Challengers,
 
 
-Required sections in the Jupyter Notebook - 
+### Required sections in the Jupyter Notebook - 
 
 1. Exploratory Data Analysis
 
